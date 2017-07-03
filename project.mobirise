@@ -1,0 +1,2636 @@
+{
+  "settings": {
+    "currentPage": "Wat zeggen ze",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2b0680",
+        "secondaryColor": "#2b0680",
+        "successColor": "#2969b0",
+        "infoColor": "#e25041",
+        "warningColor": "#f3c649",
+        "dangerColor": "#41a85f",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Ubuntu",
+        "textFont": "Ubuntu",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 82,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "8 redenen waarom.html": {
+      "settings": {
+        "main": true,
+        "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
+        "meta_descr": "8 redenen waarom intuïtief schilderen goed is voor je.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.kunstigart.nl/\" target=\"_blank\">website</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" target=\"_blank\">Wie ben ik?</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "80px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1332.jpg",
+            "bgColor": "#2b0680",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#2b0680",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://www.kunstigart.nl\" target=\"_blank\">Atelier Kunstig Art</a>",
+          "text": "<p>Bewustwording door intuïtief schilderen&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-8",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/weinig-ruimte-kunstig-art-1400x1125.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Heb je thuis ook zo weinig ruimte om &nbsp;zelf te schilderen?",
+          "text": "Het is voor velen heel moeilijk om een eigen atelier ruimte thuis te creëren. &nbsp;Een hele kamer alleen voor je hobby is niet voor veel mensen weggelegd. In een hoekje van de woonkamer een plekje maken voor je ezel is ook niet altijd een gegarandeerd succes. Zeker als je je een beetje enthousiast uit wilt leven. Verf op de bank krijgen is niet echt een optie, laat staan spetters op de TV (ach is dan echt een kleuren TV!), maar dan hebben we het nog geeneens over de vloer gehad!<br> <br>Dan maar je beeldscherm en spullen op je bureau naar achteren schuiven, een kleed eroverheen gooien en dan maar schilderen. <br>Is dit echt een fijne oplossing voor je?<br>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-9",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-2-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Zo kan het ook!",
+          "text": "Bij Atelier Kunstig Art staat je doek op jou te wachten als je komt schilderen. Geen gesjouw met materiaal en een ruime keuze uit verschillende maten linnen doeken. We gaan wel voor goede kwaliteit, want laten we nou eerlijk zijn, je gaat ook geen gaatje boren met een verroest boortje, dan neem je een scherp boortje, toch?&nbsp;<br><br>Dat geldt zeker voor de kwaliteit van je verf en doeken. Hoeveel mensen denken dat ze niet kunnen schilderen omdat ze, helaas, heel goedkoop materiaal hebben gekocht en de verf mengt niet fijn, of dekt niet goed. De kans is groot dat het aan je materiaal ligt en niet aan jouw schildersvaardigheden.&nbsp;<br><br>En hoe kom je daar nou achter?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/atelier-kunstig-art-1-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art 2",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Door zelf te ervaren hoe het is om bij <br>Atelier Kunstig &nbsp;Art<br>&nbsp;te schilderen.",
+          "text": "Voor je zover bent wil je misschien eerst meer weten over intuïtief schilderen en wat dat voor jou kan betekenen. <br><br>Speciaal voor jou heeft Sylvia te Braake een gratis e-boek gemaakt.&nbsp;<br>\"8 redenen waarom &nbsp;intuïtief schilderen goed is voor jou.\" <br>Hieronder kom je de informatie tegen hoe je het kunt downloaden. <br><br>Intuïtief schilderen is heel bijzonder en is de core business van Atelier Kunstig Art. Ondanks dat zijn er ook mensen die het heerlijk vinden om hun favoriete plaatje na te schilderen. Dat kan ook. Dat zie je hiernaast. Het gaat vooral om dat jij je creatief kan uiten en geniet van wat je aan het maken bent. Jij zal het toch maken met jouw kleuren en op jouw manier.<br> <br>We gaan voor <b>vrijheid blijheid!</b><br><b>Jij kiest wat jij fijn vindt om te maken en hoe je het wilt doen!<br></b> &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"8 redenen waarom intuïtief schilderen goed is voor jou!\"</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "Wat biedt Atelier Kunstig Art jou?",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#2b0680"
+            },
+            "LI": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content2-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><ol><li>Je hebt een eigen plek, waar alles staat wat je nodig hebt - kwasten, penselen, rollers, spatels en vaatdoekje. Je linnen doek staat bij binnenkomst op jouw ezel op jou te wachten .</li><li>Uitgebreid assortiment materiaal. Dus zelf geen gesjouw. Zelfs bijzonder materiaal is aanwezig wat je mag gebruiken op je schilderij.</li><li>Je schildert in gezelschap en dat is heel leerzaam.</li><li>Je schildert in je eigen tempo.&nbsp;</li><li>Niets wordt klassikaal gedaan, ook niet na bespreken van je werk.</li><li>Je hebt geen teken- en/of schilderervaring nodig.</li><li>Intuïtief schilderen is een methode die iedereen kan.</li><li>Wil jij jouw favoriete plaatje naschilderen dan mag dat.</li><li>Het is ook nog eens gezellig om met gelijkgestemden en anders denkende mensen om te gaan.</li><li>Je koopt een 9 strippenkaart die een heel jaar geldig is.</li><li>Je hoeft niet elke week te komen, jij bepaalt hoe frequent je komt.</li><li>Je kunt kiezen uit 5 dagdelen om te komen schilderen.</li><li>Je reserveert vooraf een plek op dat dagdeel wat jou het beste uitkomt.&nbsp;</li><li>Persoonlijke begeleiding door Sylvia te Braake.</li><li>Op een speelse manier leren schilderen.</li><li>Vooral veel plezier hebben tijdens je eigen schilderproces.</li></ol><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "Waarom dan nog een gratis e-boek?",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            },
+            "H3": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-h",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gratis-download-8-redenen-1400x1811.jpg",
+              "link": "",
+              "alt": "",
+              "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Omdat intuïtief schilderen meer is dan alleen schilderen!&nbsp;",
+          "text": "Soms is het moeilijk om te vatten wat intuïtief schilderen precies is. Dat is echt niet raar, want het is bijna niet uit te leggen. Dit is iets wat je zelf \"moet\" ervaren. Vandaar dat Sylvia te Braake een aantal belangrijke aspecten heeft opgeschreven en zo goed als mogelijk geprobeerd heeft de processen te beschrijven. Natuurlijk kan het voor iedereen een ander proces zijn, maar dit is wel een goede leidraad. <br><br> Druk nu op de Download-knop voor het gratis e-boek<br>\"8 redenen waarom intuïtief schilderen goed is voor jou!\"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/2243-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts1-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#553982",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "width": 128,
+              "active": true,
+              "link": "http://www.kunstigart.nl/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
+          "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+        }
+      ]
+    },
+    "Een reis door grijs": {
+      "settings": {
+        "title": "Een reis door grijs",
+        "meta_descr": "Een reis door grijs",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-u",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.kunstigart.nl/\" target=\"_blank\">website</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" target=\"_blank\">Wie ben ik?</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "80px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1332.jpg",
+            "bgColor": "#2b0680",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#2b0680",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://www.kunstigart.nl\" target=\"_blank\">Atelier Kunstig Art</a>",
+          "text": "<p>Bewustwording door intuïtief schilderen&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-x",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/collage-schilderijen-cursisten-kunstig-art-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Hoe ziet intuïtief schilderen eruit in de praktijk?",
+          "text": "Het beste is dit toe te lichten aan de hand van een paar verhalen. Uiteraard ervaart iedereen het schilderproces verschillend en dat is waarom het zo boeiend is. Zowel de beleving als het eindresultaat van de schilderijen is anders. <br>Nog nooit zijn er twee dezelfde schilderijen gemaakt. Hopelijk komt er ooit op een dag een eeneiige tweeling schilderen en kunnen we zien of zij bijna hetzelfde maken. De kans is klein want hun eigen identiteit, gevoel en intuïtie spelen een belangrijke rol.<br><br>Het eerste verhaal gaat over Margriet. Een vrouw die al behoorlijk creatief is en al schilderde maar nog niet volgens de intuïtieve methode van Atelier Kunstig Art.&nbsp;<br>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-y",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/grenzen-1400x992.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Grenzen stellen",
+          "text": "In het voorjaar van 2016 kwam Margriet een proefworkshop bij mij (Sylvia te Braake van Atelier Kunstig Art) doen. Zij was nieuwsgierig naar mijn methode van intuïtief schilderen. Thuis kwam er niet veel van, want ze heeft niet echt de ruimte om aan een groot doek te werken.<br><br><b>Een nieuw begin</b><br>Het ging haar gemakkelijk af om heerlijk te spelen. Een kloddertje hier, een kloddertje daar. Aan het eind van de ochtend ging ze benoemen wat ze zag. Een grote bloem met een stengel die naar een kleine bloem ging. In de kleine bloem was een foetus te zien. Ze voelde dat het stond voor een nieuw begin, al was dat nieuwe begin nog niet helder wat dat precies was.<br><br><b>Grens stellen</b><br>Ze besloot om gelijk te starten met de wekelijkse cursus. De week erop gingen we verder kijken wat ze met haar schilderij kon gaan doen. In het grote bloem was een kern die ze graag wilde behouden. Ik stelde voor dat ze er een lijn omheen zou zetten. “Een grens stellen?!” kwam met enige paniek bij Margriet eruit.<br><br>Het idee dat ze nu zelf een grens moest stellen vond ze heel moeilijk. Maar als iemand anders een grens stelt voor haar vindt ze dat ook niet fijn. Dit was duidelijk een heftige thema voor haar. Ik vroeg of er soms een kleur was die het voor haar veilig zou maken om een grens te stellen. Dat wist ze niet maar ze ging aan de slag. Uiteindelijk bleek dat een heel zachtroze kleur prima was om dat te doen. Ze was erg aangenaam verrast dat het haar goed afging. Zo ontstond er ruimte om verder te gaan.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-z",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/opruiming-1400x992.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art 2",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Opruimen",
+          "text": "<br>Gedurende de volgende paar weken is ze erg bezig geweest met dit schilderij. Het werd steeds rustiger, opgeruimder, overzichtelijker en ze raakte er steeds enthousiaster over. In de dagen na het schilderen gebeurde er ook veel met Margriet. Oude herinneringen kwamen boven. Niet altijd fijne herinneringen, kennelijk was het tijd om daar aandacht aan te besteden. Deze thema’s kwamen ook voorbij tijdens het schilderen. Er was duidelijk veel gaande bij haar. Al was het soms heftig ze voelde dat het haar goeddeed en daarom ging ze door.<br><br><b>In je eigen kracht staan</b><br>Margriet kon heel goed verwoorden wat er bij haar gebeurde en wat het schilderij bij haar opriep. Dat maakte het voor mij ook makkelijk om haar te helpen. Zodra het mogelijk is om je gevoel te benoemen van wat gaande is, hoe makkelijker het is om te beslissen wat er op je doek moet gebeuren. Dan heb je zelf de macht over je doek. Je staat in je eigen kracht en uiteindelijk merk je dat ook in je eigen leven. Je hebt natuurlijk wel een beetje lef nodig om te schilderen, om dingen te veranderen, terwijl je eigenlijk niet weet wat je ermee moet doen. Zo is het ook in het leven en daarom helpt intuïtief schilderen met deze stappen.<br><br><b>Een blind vertrouwen hebben dat intuïtie heet!</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Gratis e-boek \"Een reis door grijs!\"</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "\"Creativity takes courage.\" Henri  Matisse",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#2b0680"
+            },
+            "LI": {
+              "color": "#2b0680"
+            },
+            "DIV": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content2-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b>Loslaten</b><div><font color=\"#2b0680\"></font></div><div>Margriet begon aan haar tweede schilderij. Het was in de eerste paar weken best een gestoei. Ze snapte niet waarom. Soms willen we zo graag dat het schilderij zo verloopt als de vorige, maar kennelijk wil ons systeem daar niet altijd in meegaan. Op het moment dat Margriet het los kon laten dat het iets moest voorstellen, ging het daarna als vanzelf. Er ontstond een soort plattegrond met een dier dat heel blij met zijn armen en benen stond te zwaaien.<br><br></div><div><b>In het maanlicht</b></div><div>Margriet ging ineens “witte grenzen” maken om de velden. Ze had er zoveel plezier in. Het maakte haar blij. Oranje en groen waren heel belangrijk en ze ging er helemaal in op. Het “blije dier” wat ze steeds zag begon steeds belangrijker te worden. Tijdens een gesprek met een medecursist kwam de herinnering op van een droom over een blije boom die stond te dansen in het maanlicht.&nbsp;</div><div>Toen ik haar even later vroeg hoe het ging, vertelde ze haar verhaal. Ik vroeg aan haar “waar heb je zin in?” en ineens wist ze het: ze ging de blije boom maken!<br><br><b>Geboren</b></div><div>Zo werd haar tweede schilderij geboren. Je zag Margriet helemaal glunderen en letterlijk stond ze te bewegen en te dansen. Ze was helemaal blij. Het schilderij ontwikkelde zich op een mooie manier, zoals eerder was er weer zoveel symboliek ontstaan. Doordat ik met Margriet praat over wat er gebeurt tijdens het schilderen en vragen stel:  wat voel je, wat doet het met je, ontstaat het sneeuwbal effect. Dan rollen we van het ene gevoel in het andere en vervolgens is het dan ineens, bingo, dan weet ze precies wat ze wil doen. Als het in het schilderij klopt dan weet ze gelijk dat het haar gevoel en intuïtie is. Klopt het niet dan was het haar ratio. Bij dit soort schilderijen is nooit iets logisch. Dus schakel het denken maar uit.</div><div>Het was heel belangrijk dat er stevige wortels waren en dat ze ook contact met de grond maakte – gegrond was. De schaduwplekken op de boom zorgde er juist voor dat het driedimensionaal werd. Tegelijkertijd stond dat symbool voor de schaduwkant in ons. Die kun je niet zomaar negeren. De kunst is die schaduwkant juist te omarmen en accepteren.&nbsp;</div><div><br></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "\"Het enige waardevolle is intuïtie!\" Albert Einstein",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content1-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>De ommekeer</b></p><p>Toen gebeurde er iets heel bijzonders. Op een keer kwam Margriet binnen en wilde ze gelijk haar verhaal delen. Ze had haar abonnement voor de TV veranderd naar een andere provider. Er waren allemaal complicaties met de overdracht en ze verwachtte dat Margriet elke dag, 10 dagen lang, zou bellen over de gang van zaken. Op het moment dat ze het telefoongesprek beëindigde realiseerde ze dat ze hier geen behoefte aan had en heeft ze gelijk teruggebeld en haar abonnement opgezegd.<br></p><p><br></p><p><b>Tweede natuur</b></p><p>Ineens realiseerde ze zich dat ze heel duidelijk een grens had gesteld! Ze had geen behoefte om in dit drama te gaan zitten. Dit pikte ze niet. Dit was iets wat ze nog nooit zo gedaan had. Wat was ze trots op zichzelf. Het was voor haar heel duidelijk dat het schilderen van grenzen haar werkelijk heeft geholpen om zelf grenzen te stellen. Ze was erg onder de indruk dat het schilderen zo’n enorm effect op haar had gehad en dat het zo positief doorwerkte. Grenzen stellen was ineens een tweede natuur voor haar geworden.<br><br></p><p>Misschien was dit wat Margriet in haar eerste schilderij had geschilderd. Een nieuw begin. Een nieuw tijdperk waarin Margriet zelf grenzen ging stellen door te kiezen wat goed is voor haar. Dit is toch fantastisch.</p><p><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "\"Een blind vertrouwen hebben dat intuïtie heet!\"",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content1-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Uitdaging</b></p><p>Dit verhaal over Margriet is maar één van de vele verhalen over wat er kan gebeuren in je leven door intuïtief te schilderen. Ik heb het zelf zo vaak meegemaakt en zodra ik met een nieuw doek begin, dan ben ik reuze benieuwd wat de boodschap van dit schilderij weer zal zijn. Het verrijkt mijn leven en ik word daar erg blij van.&nbsp;<br><br></p><p>Dank je Margriet dat je jouw  verhaal met ons wilde delen. Ik heb zelf ook erg genoten van jou en  jouw proces en ik ben je dankbaar dat je het vertrouwen in mij had om zoveel met mij te delen. Alleen door deze samenwerking was het mogelijk om zo diep te gaan tijdens het schilderen.&nbsp;<br></p><p><br></p><p><b>Trots op Margriet</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bij het controleren van wat ik had geschreven was het werkelijk fantastisch hoe Margriet nu echt voor zichzelf opkwam. De punten ter correctie waar ze mee kwam waren zo mooi, en dat gaf weer heel duidelijk aan hoe zij nu in het leven staat. Rekening houden met anderen <b>MAAR </b>nu zonder zichzelf weg te cijferen. <br>Ik ben trots op je Margriet!</span><br></p><p>Liefs Sylvia</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            },
+            "H3": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gratis-reis-doorgrijs-1-1400x2234.jpg",
+              "link": "",
+              "alt": "",
+              "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "\"Een reis door grijs!\"",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Misschien wil je mijn verhaal lezen. Jawel, ik heb mijn best gedaan om regelmatig foto’s te maken tijdens het schilderen van een schilderij in grijze tinten. Voor je het verhaal gaat lezen, wil ik een tipje van de sluier oplichten.</span><br> <br>Ik schilder <b>NOOIT</b> in grijze tinten. Ik ben een mens die van kleur houd. Mooi vrolijke kleuren, die eruit mogen knallen, zeg maar. Dus grijs is zoiets als tegen mijn eigen flow in gaan, maar ja, het moet toch kunnen. Zo moeilijk kan het toch niet zijn!!?? Er zijn dingen die je nu eenmaal een keer moet uitproberen om zeker te weten of je het kan of niet, toch?<br> <br>Met zo'n soort gevoel ben ik begonnen aan mijn “Een reis door grijs” en ook omdat het tegenwoordig zo modern is om veel grijs in huis te hebben, dacht ik, laat ik met de trend meegaan!<br>&nbsp;&nbsp;<br>Veel plezier met het gratis e-boek \"Een reis door grijs!\" . <br><br>Druk nu op de Download-knop voor het gratis e-boek.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-een-reis-door-grijs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts1-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#553982",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "width": 128,
+              "active": true,
+              "link": "http://www.kunstigart.nl/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
+          "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+        }
+      ]
+    },
+    "Wat zeggen ze": {
+      "settings": {
+        "title": "Wat zegt men over Atelier Kunstig Art?",
+        "meta_descr": "Wat zegt men over Atelier Kunstig Art? Referenties hoe het schilderen wordt ervaren bij Atelier Kunstig Art",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1b",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.kunstigart.nl/\" target=\"_blank\">website</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" target=\"_blank\">Wie ben ik?</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "80px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1332.jpg",
+            "bgColor": "#2b0680",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#2b0680",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://www.kunstigart.nl\" target=\"_blank\">Atelier Kunstig Art</a>",
+          "text": "<p>Bewustwording door intuïtief schilderen&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/creatieve-groei-van-een-cursist-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Waarom juist bij <br>Atelier Kunstig Art schilderen?<br><br>",
+          "text": "Iedereen heeft zo zijn/haar eigen redenen. Het is heel divers. Wat iedereen in ieder geval gemeen heeft is:<br>&nbsp;Ze willen allemaal leren schilderen. <br>Ze willen allemaal ervaren hoe het is om creatief bezig te zijn. <br>Ze hebben allemaal behoefte om even tijd voor zichzelf te hebben.&nbsp;<br>Ze willen graag even uit het hoofd zijn.<br>Ontspanning is ook een belangrijke factor.<br>Het moet niet iets zweverigs zijn. <br>Gewoon met beidevoeten op de grond blijven staan.<br><br>Onze maatschappij wordt steeds drukker en intenser. Er zijn veel prikkels, denk even aan hoeveel informatie je op een dag binnen krijgt via TV, radio, Facebook, Instagram, YouTube, je mobiel met alle handige apps en ga zo maar door.&nbsp;<br>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/help-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Onze hersenen ontploffen!",
+          "text": "Nou zo voelt dat soms voor Sylvia te Braake van Atelier Kunstig Art. Teveel informatie is soms een hel. \"Ik ben erg leergierig, ik vind zoveel dingen heel interessant en boeiend. Ik schrijf me vaak in voor een nieuwsbrief, en dan.... ontvang ik dagelijks heel veel mail. Dat is overprikkelend voor mij. Dit is maar een voorbeeld. Zo hebben we de hele dag door prikkels.<br><br>Hoe stop je dit? Dat is een hele andere cursus. Ooit zei een cursist van Sylvia tegen een ander: \"Ik mag van Sylvia niet meer zoveel TV (journaal) kijken! Het helpt wel. Nu ga ik niet meer mee in alle drama's die ik tegenkom. Ik heb veel meer rust in mijn hoofd gekregen en ik kan beter met alle toestanden in de wereld omgaan\".<br><br>Soms komen tijdens het schilderen bepaalde situaties of patronen duidelijk naar voren en gaat de cursist met Sylvia brainstormen. Door haar invoelend vermogen in combinatie met haar opleidingen en levenservaring is zij als geen ander in staat je te begeleiden. Vanzelfsprekend volgt een werkbare oplossing, in ieder geval voor de korte termijn. Het schilderen werkt ook door, dat helpt mede de patronen te veranderen voor de lange termijn.&nbsp;<br><br><i><b>Uit privacy overweging worden namen van cursisten niet genoemd of een pseudoniem gebruikt, tenzij de cursist geen bezwaar heeft dat haar/zijn naam wordt gebruikt.&nbsp;</b><br></i><br>Sylvia is niet de enige die last heeft van die overprikkeling. Meer mensen die bij haar komen schilderen herkennen dit, soms zelfs in een vergevorderd stadium dat uiteindelijk kan leiden tot een burn-out.<br><br>In de loop der jaren hebben veel mensen hun heil gezocht bij het intuïtief schilderen van Atelier Kunstig Art voor o.a. een burn-out. \"Waarom?\" zou je kunnen denken.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1g",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/de-kleurrijke-en-speelserechter-hersenhelft-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art 2",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Wat heeft een burn-out en de linker- en rechterhersenhelft met elkaar te maken?&nbsp;",
+          "text": "Eén van de oorzaken van een burn-out is geen of niet genoeg grenzen stellen. En o.a.<br>Teveel piekeren.<br>Problemen overdenken te lang / te vaak.<br>Te gespannen zijn.<br>Niet om kunnen gaan met (werk) druk, gezin, privé leven, sociaal leven enz.<br><br>Dit heeft voornamelijk met activiteiten in je linkerhersenhelft te maken . Denken, denken, denken.<br><br>Op het moment dat je gaat schilderen en vooral intuïtief gaat schilderen maak je verbinding met je rechterhersenhelft waar je gevoel en intuïtie zit. Dit helpt om bij de oorzaak van wat gaande is te komen. Door te schilderen geef je je gevoel een uitlaatklep en dat is heel erg belangrijk. <br><br>\"Begrijp mij goed\" zegt Sylvia \"Je hebt niet een ernstig probleem nodig om te komen schilderen. Gebruik het schilderen als een voorzorgsmaatregel om elke week te checken hoe het met <b>JOU</b> gaat. Dit is zeker belangrijk voor o.a. mensen die heel gevoelig zijn en weten dat hun grenzen stellen niet eenvoudig is. We hebben allemaal een moment van rust nodig. Ook JIJ! Kom gewoon schilderen omdat je plezier wilt beleven in creatief bezig zijn. Mocht er iets anders bij je spelen dan komt dat vanzelf aanbod als dat echt belangrijk is voor je bewustwording en ontwikkeling. Zo niet, dan is dat ook helemaal goed. Niets hoeft, alles mag!<br>Vrijheid blijheid en het gaat om jou, wat voor <b>JOU</b> nu prettig is!\" &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "Wat zeggen ze over Atelier Kunstig Art?",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#553982"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#2b0680"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "features1-1m",
+          "_params": {
+            "columnsColor": "#553982",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-600x395.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Ria",
+          "subtitle1": "Het is heel uniek hoe we bij Sylvia mogen schilderen!",
+          "caption1": "Het nieuwe atelier is een prettige plek om te zijn, ik ervaar het schilderen bij Sylvia ook als een verdieping, dat zal wel komen omdat het intuïtief schilderen is.<br><br>Je hoeft niets te presteren, het is goed wat je doet en dat geeft een gevoel van vrijheid en dan kan het gaan ontstaan.<br><br>Als je pas begint met intuïtief schilderen, kan het zijn dat je het moet gaan durven om gewoon vanuit jezelf te gaan schilderen, in vrijheid zonder oordeel over wat er ontstaat, alles is goed.<br><br>Sylvia weet dit goed te sturen, zodat je er vertrouwen in krijgt dat het goed is wat je creëert en het goed is wat je maakt!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/koe-600x805.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Anneke",
+          "subtitle2": "Het is heerlijk schilderen bij Sylvia!",
+          "caption2": "Ik ben nu een aantal jaren bezig bij Sylvia.<br>Ze leert je technieken en oppert diverse mogelijkheden je leert ook kijken naar wat je schildert. <br><br>Het is vreselijk gezellig samen met de andere cursisten. Het voelt als een warm thuis als je met elkaar bent. Je hebt dezelfde passie ‘het schilderen’ heerlijk om bij Sylvia dit te mogen doen. <br><br>Mensen, als je wilt leren schilderen, ook vanuit je hart, dan stel ik voor langs te komen bij Sylvia op het Hitteschild en je via het schilderen te uiten.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/de-meisjes-600x536.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Barbera",
+          "subtitle3": "Als je begint ben je verkocht!",
+          "caption3": "Ik schilder inmiddels al heel wat jaren bij Sylvia. Schilderen is helend. Sowieso creatief bezig zijn. Iedereen kan intuïtief schilderen, je doet het altijd goed, dat is juist zo mooi. Wat naar buiten mag komen komt op het doek. Is het niet naar je zin dan verander je dat weer totdat het goed voelt. <br><br>Sylvia weet de juiste snaar te raken als zij samen met jou het schilderij 'leest'. Het is mooi om te zien welke boodschappen er zichtbaar mogen worden. <br><br>En natuurlijk kun je ook iets naschilderen, heb je een plaatje of foto neem het mee en start. <br><br>Gewoon doen en ik waarschuw je, <br>als je begint <br>ben je verkocht!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/disguised-tulip-600x838.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Ieke",
+          "subtitle4": "Een beter anti-stress medicijn is er niet!",
+          "caption4": "Inmiddels schilder ik sinds 2007 bij <br>Atelier Kunstig Art.<br><br>Ben begonnen in een periode van herstel, na  een burn-out.<br>Wat ik met name toen en nu nog steeds ervaar is de rust die het schilderen geeft.<br>Zo heerlijk niets moet, alles mag! <br><br>Het maakt je hoofd leeg en je gaat opgeladen naar huis!<br><br>Later heeft het schilderen mij ook erg geholpen tijdens mijn borstkanker! Alle boosheid, verdriet en frustratie heb ik er tijdens de workshops uit kunnen gooien. Soms in stilte, soms onder begeleiding van Sylvia.<br><br>Het komt regelmatig voor, dat ik te moe ben om het huis uit te gaan maar zet me er dan toch toe te gaan schilderen met het idee dat ik weer snel naar huis zal gaan! Met diezelfde regelmaat ben ik dan de laatste die gaat opruimen die avond!<br><br>Wat een rust en energie gaat er van dat schilderen uit.&nbsp;Je hoofd raakt leeg en je bent alleen bezig met je verf, kwast en doek!<br><br>Het is niet uit te leggen maar een kwestie van ervaren!!!!! <br>Een beter anti-stress medicijn is er niet!<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            },
+            "H3": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1k",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sylvia-te-braake-schilderen-010-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Verschillende mensen, verschillende stijlen.",
+          "text": "We kunnen nu eindeloos door gaan met vertellen wat er allemaal gebeurt tijdens het schilderen bij ons en waarom het zo goed is voor jou!<br>In ons enthousiasme kunnen we soms doorslaan, dus nu stoppen we.<br> <br>Waarschijnlijk heb je nu een behoorlijk goed idee wat intuïtief schilderen is. Wil je meer weten over Sylvia te Braake? Gebruik dan de button om meer over haar te lezen.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1o",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gratis-2-eboeks-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Heb jij deze gratis <br>e-books al?",
+          "text": "Misschien heb je deze twee boeken nog niet. &nbsp;Dan kun je ze hier gratis downloaden",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\" http://www.kunstigart.nl/aanmelden-voor-downloads/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOADEN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts1-1l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#553982",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "width": 128,
+              "active": true,
+              "link": "http://www.kunstigart.nl/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
+          "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+        }
+      ]
+    },
+    "Wat kunnen wij jou aanbieden": {
+      "settings": {
+        "title": "Wat kunnen wij jou aanbieden?",
+        "meta_descr": "Wat kunnen wij jou aanbieden? Wij hebben een ruime keuze uit workshops, cursus, teambuilding, kunst en nog meer bij Atelier Kunstig Art",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b0680!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1p",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.kunstigart.nl/\" target=\"_blank\">website</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" target=\"_blank\">Wie ben ik?</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "80px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1332.jpg",
+            "bgColor": "#2b0680",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#2b0680",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://www.kunstigart.nl\" target=\"_blank\">Atelier Kunstig Art</a>",
+          "text": "<p>Bewustwording door intuïtief schilderen&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Wat kan Atelier Kunstig Art jou aanbieden?",
+          "meta": "Dit is een kleine greep uit onze assortiment."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-26",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sylvia-te-braake-schilderen-010-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Maar eerst dit: <br>wie zit achter&nbsp;<br>Atelier Kunstig Art?",
+          "text": "Atelier Kunstig Art is opgericht door Sylvia te Braake in 2004. Zij wilde graag het plezier van intuïtief schilderen delen met anderen. Zij had ook ontdekt door een iets andere benadering te nemen dat het erg heilzaam werkte voor je. Met heel veel passie is zij begonnen met haar atelier. Gelukkig wist zij toen niet wat er allemaal zou gebeuren in de komende jaren.<br><br>Voor we verder gaan met wat het atelier jou kan aanbieden , is het misschien fijn om te weten wie Sylvia is. Klik op onderstaande button om haar verhaal te lezen. <br><br>Hopelijk zal het duidelijk worden dat zij haar hart blijft volgen en niets haar weerhoudt om haar droom te &nbsp;verwezenlijken. <br><br><i><b>\"Het leven is een groot feest<br>maar je zal zelf de slingers op moeten hangen!\"&nbsp;</b></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1s",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/collage-schilderijen-cursisten-kunstig-art-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Particulieren<br><br>",
+          "text": "Voor ieders wat wil!<br>Tenminste dat proberen wij te bereiken. Vanuit het intuïtief schilderen hebben we een wekelijkse cursus en regelmatig een losse middag workshop op de zaterdag. Ook een proef workshop is mogelijk. In de zomerperiode kun je ook bij ons terecht.<br><br>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1t",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/reinaerde-1-2000x1500.jpg",
+              "link": "",
+              "alt": "",
+              "title": "atelier kunstig art",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Zakelijk",
+          "text": "Voor het bedrijfsleven hebben we ook het nodige. <br>Een teambuilding op creatief niveau, waar je de diepte in kunt gaan en de verborgen oorzaken naar boven kunt halen. Zo iets heb jij nog nooit zo meegemaakt. <br>Hier wordt het zichtbaar hoe iedereen met elkaar samenwerkt of juist niet.<br>Een doek liegt niet!<br><br>Wij helpen jouw bedrijf om je personeel geestelijk fit en in een creatieve flow te houden door ze te prikkelen om \"out of the box\" te denken.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/wie-ben-ik/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Wie is Sylvia te Braake?</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "Voor particuleren&nbsp;",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#553982"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#2b0680"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "features1-1x",
+          "_params": {
+            "columnsColor": "#553982",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/proef-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Proefworkshop",
+          "subtitle1": "",
+          "caption1": "Tijdens de wekelijkse cursus in de periode september t/m juni is het mogelijk om een proefworkshop te komen volgen.<br>Dan proef je letterlijk de sfeer in de groep en kun je ervaren wat het is om intuïtief te schilderen.<br>Het is wel zo, dat dit een moment opname is en alles valt en staat met hoe je op dat moment in je vel zit.&nbsp;<br>Wil je jezelf een eerlijke gelegenheid geven om intuïtief te schilderen dan is de \"Wekelijkse date met je ezel!\" een betere optie.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/proefworkshop/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">proefworkshop</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-strippenkaart-600x848.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "\"Wekelijkse date met je ezel!\"",
+          "subtitle2": "",
+          "caption2": "Alles is te leren! En dat is waar zeker als je het echt graag wilt. Dan zien we elke week in het atelier wat voor sprongen er gemaakt worden.<br>Geef jezelf de kans om het leren in je eigen tempo. Dit is van enorm veel belang omdat als je mee moet gaan met iemand anders tempo kan dat frustrerend zijn.<br>Hier leer je op speelse manier jezelf te uiten en waar het bij veel cursussen de nadruk op ligt - eind resultaat - is dat hier heel anders.&nbsp;<br>Hier hebben we geen enkel idee wat we gaan maken. Alles is goed wat er ontstaat. Je gaat vanzelf opruimen wat je niet mooi vind en zo ontstaat jouw unieke schilderij welke je van te voren nooit had kunnen bedenken.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/wekelijks-workshop/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">wekelijkse date</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zomeractie-atelier-kunstig-art-600x425.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Strippenkaart",
+          "subtitle3": "",
+          "caption3": "Sinds 2004 geeft Atelier Kunstig Art intuïtief schilderles. Inmiddels is het duidelijk dat wij nu in een tijd leven waarin de meeste mensen het enorm druk hebben. Er is zoveel leuke dingen om te doen en dan nog je werk, gezin en al het andere.<br>Met ons 9 strippenkaart systeem betekent het dat je zelf bepaal wanneer en hoe vaak je wilt komen schilderen. Je kunt één keer in de week komen of om de week. Net hoe jouw agenda jou de ruimte geeft om een paar uur voor jezelf te mogen hebben.<br>De strippenkaart is een hele jaar geldig waardoor je veel vrijheid hebt.<br>Klik op de button om alle voorwaarden te lezen en wees snel, want nu is er nog een actie:<br>9 keer komen schilderen en 8 keer betalen!<br><br>Pak die zomerkorting!",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/strippenkaart/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">strippenkaart</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zomerworkshops-600x425.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Zomerworkshops",
+          "subtitle4": "",
+          "caption4": "Vanaf 3 juli starten de zomerworkshops. In de maand juli is het mogelijk om te kiezen uit 5 dagdelen. Je kunt 1 dagdeel mee doen of je kunt een paar keer achter elkaar komen. JIJ bepaalt hoe vaak je wilt komen.<br>In augustus is het atelier op elke woensdagochten en avond.<br>Voor velen is het erg fijn dat er nog cursussen zijn in de zomer aangezien veel verenigingen dan dicht zijn.<br>Je kunt ook met de strippenkaart komen tijdens de zomerworkshops. Wat je dan nog niet gebruikt heb kun je in de rest van het jaar opmaken.<br>Kom genieten en ervaren wat intuïtief schilderen met je doet en wat het voor jou kan opleveren.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.kunstigart.nl/zomerworkshops/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">zomerworkshop</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "Voor het bedrijfsleven",
+          "meta": ""
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block P": {
+              "color": "#2b0680"
+            },
+            ".card-footer > div": {
+              "text-align": "right",
+              "font-size": "22px"
+            },
+            ".card-block B": {
+              "color": "#2b0680"
+            },
+            ".card-block DIV": {
+              "color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p><b>Teambuilding</b></p><p>Voor de kickoff van een nieuw project of begin van het boekjaar of juist om de teamspirit te verhogen &nbsp; kun je de schildersessie inzetten om een aantal doelstellingen te bereiken waarbij de creativiteit van het personeel gestimuleerd wordt.</p><p>Je kunt kiezen uit:&nbsp;<br><span style=\"font-size: 1.125rem; line-height: 2;\">– het gezamenlijk maken van één groot schilderij<br></span><span style=\"font-size: 1.125rem; line-height: 2;\">– in groepjes werken aan verschillende schilderijen&nbsp;<br></span><span style=\"font-size: 1.125rem; line-height: 2;\">– ieder een eigen schilderij.</span></p><p><i>Er zijn volop mogelijkheden zoals de teambuilding houden in jouw eigen bedrijf!</i></p><p><a href=\"http://www.kunstigart.nl/teambuilding/\" target=\"_blank\">lees meer</a></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>Actieve creativiteit</b></p><p><b>Hoe hou je je personeel fit?</b></p><div><span style=\"font-size: 1.125rem; line-height: 2;\">Ziekte uitval is een groot probleem voor bedrijven. De focus houden op hoe je,&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">&nbsp;jouw personeel gezond houdt is effectieve op de lange termijn. <br>Dit kun je doen door ze te stimuleren om een ontspannende hobby te hebben. Je kunt ze een korting geven op een strippenkaart om&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">i</span><span style=\"font-size: 1.125rem; line-height: 2;\">ntuïtief te komen schilderen want dit is &nbsp;zeker een goede optie voor de ontspanning en tegelijkertijd komen ze meer in contact met zichzelf en zijn ze een paar uur uit het hoofd! Daardoor voelen mensen sneller of ze te gestrest zijn of oververmoeid. Zij leren ook door het schilderen om zelf beter grenzen te stellen aan zichzelf waardoor ze eerder aan de bel trekken op hun werk voor het te laat is.&nbsp;</span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><i>PS. Denk wel als ondernemer aan jouw eigen ontspanning en rust. <br>Jij bent de sleutel figuur in JOUW bedrijf!</i></span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><br></span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\"><a href=\"http://www.kunstigart.nl/actieve-creativiteit/\" target=\"_blank\">Lees meer</a></span></div>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>Ervaringen</b></p><p>Tijdens een teambuilding werd het duidelijk dat één persoon heel veel ruimte in nam waardoor anderen heel weinig kregen. Het bleek ook dat deze persoon een stoorzender was in de groep maar niemand kon het haar duidelijk maken.&nbsp;<i>Nu wel,</i> <i>want het was zichtbaar geworden.</i></p><p>Een lieve manager die alles deed om zijn personeel naar de zin te maken kwam achter tijdens het schilderen dat hij zich letterlijk weg cijferde. Iedereen had commentaar op zijn stuk dat hij het steeds ging aanpassen tot er niets over bleef &nbsp;van zijn oorspronkelijk stuk.<i> <br>Hij schrok hier enorm van want helderde kon het niet gezegd worden.</i></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials3-23",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#2b0680",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "Teambuilding en actieve creativiteit",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#553982",
+            "showMeta": true
+          },
+          "title": "<a href=\"https://nl.wikipedia.org/wiki/Intu%C3%AFtie\" target=\"_blank\">Wat zegt Wikipedia over intuïtie?</a><br>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#2b0680"
+            },
+            "H3": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "msg-box5-1z",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/zomeractie-atelier-kunstig-art-600x425.jpg",
+              "link": "",
+              "alt": "",
+              "title": "8 redenen waarom intuïtief schilderen goed is voor jou!",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Speciale zomeractie!",
+          "text": "Zoals je hebt kunnen lezen, werken wij met een strippenkaart. Je kunt dan 9 keer komen schilderen en de kaart is een hele jaar geldig. Jij bepaalt hoe regelmatig je wilt komen schilderen. Ideaal voor wie in wisselende diensten zit en zeker voor ondernemers die de ene week het heel druk hebben en dan de volgende week meer ruimte hebben voor zichzelf.<br><br>Gun jezelf de kans om echt te ervaren wat intuïtief schilderen voor je &nbsp;kan doen.&nbsp;<br><br><b><i>Wees wel gewaarschuwd, verslavingsgevaar!</i></b><br>Heb je eenmaal de intuïtief schilder virus te pakken! <br>Dan ben je verkocht en kom je er nooit meer vanaf. <br>Al jaren komen mensen wekelijks schilderen om hun \"shot\" te krijgen!&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.kunstigart.nl/strippenkaart/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Strippenkaart actie</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts1-21",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#553982",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/facebook-banner-collage-128x47.png",
+              "width": 128,
+              "active": true,
+              "link": "http://www.kunstigart.nl/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Atelier Kunstig Art<br>Hitteschild 2-4<br>3402 EA &nbsp;IJsselstein",
+          "text2": "<strong>Contact</strong><br>Sylvia te Braake<br>Email: &nbsp;info@kunstigart.nl<br>\nPhone: 06-291 35 690<br><br>",
+          "text3": "Social Media<br><br>Facebook<br>LinkedIn"
+        }
+      ]
+    }
+  }
+}
